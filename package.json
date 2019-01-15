@@ -80,11 +80,11 @@
     "typescript": "2.6.2",
     "zone.js": "^0.8.25"
   },
-  "es2015": "fesm2015/spider-multiselect-dropdown.js",
-  "esm2015": "esm2015/spider-multiselect-dropdown.js",
-  "esm5": "esm5/spider-multiselect-dropdown.js",
-  "fesm2015": "fesm2015/spider-multiselect-dropdown.js",
-  "fesm5": "fesm5/spider-multiselect-dropdown.js",
+  "es2015": "fesm2015/ng-multiselect-dropdown.js",
+  "esm2015": "esm2015/ng-multiselect-dropdown.js",
+  "esm5": "esm5/ng-multiselect-dropdown.js",
+  "fesm2015": "fesm2015/ng-multiselect-dropdown.js",
+  "fesm5": "fesm5/ng-multiselect-dropdown.js",
   "homepage": "https://github.com/nileshpatel17/spider-multiselect-dropdown#readme",
   "keywords": [
     "angular2",
@@ -97,9 +97,9 @@
     "ng4 multiselect dropdown"
   ],
   "license": "MIT",
-  "main": "bundles/spider-multiselect-dropdown.umd.js",
-  "metadata": "spider-multiselect-dropdown.metadata.json",
-  "module": "fesm5/spider-multiselect-dropdown.js",
+  "main": "bundles/ng-multiselect-dropdown.umd.js",
+  "metadata": "ng-multiselect-dropdown.metadata.json",
+  "module": "fesm5/ng-multiselect-dropdown.js",
   "name": "spider-multiselect-dropdown",
   "peerDependencies": {
     "@angular/common": "^4.0.0 || ^6.0.0",
@@ -111,6 +111,6 @@
     "url": "git+https://github.com/nileshpatel17/spider-multiselect-dropdown.git"
   },
   "sideEffects": false,
-  "typings": "spider-multiselect-dropdown.d.ts",
+  "typings": "ng-multiselect-dropdown.d.ts",
   "version": "0.2.3"
 }
